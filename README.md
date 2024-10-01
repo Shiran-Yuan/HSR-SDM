@@ -23,4 +23,4 @@ Then run `train_and_evaluate_models.py` to get results. Key hyper-parameters can
 
 ## Acknowledgement
 
-This codebase borrows from SINR, NeRFStudio, and tiny-cuda-nn. We would like to thank the authors of those works.
+This codebase borrows from [SINR](https://github.com/elijahcole/sinr), [NeRFStudio](https://github.com/nerfstudio-project/nerfstudio), and [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn). We would like to thank the authors of those works.
