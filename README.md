@@ -21,6 +21,9 @@ pip install ninja git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindi
 
 Then run `train_and_evaluate_models.py` to get results. Key hyper-parameters can be directly adjusted in the file.
 
-## Acknowledgement
+## Model Zoo
+The model zoo can be found at Open Science Framework: [https://osf.io/pbk9a/?view_only=e4b3ced52eeb460a9f8cd8dd1569a0df](https://osf.io/pbk9a/?view_only=e4b3ced52eeb460a9f8cd8dd1569a0df)
+
+## Acknowledgements
 
 This codebase borrows from [SINR](https://github.com/elijahcole/sinr), [NeRFStudio](https://github.com/nerfstudio-project/nerfstudio), and [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn). We would like to thank the authors of those works.
